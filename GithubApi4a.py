@@ -3,19 +3,17 @@ import requests
 
 def user_repos(user):
     
+    if not isinstance(user, str):
+        return "Your Input is invalid! Please enter a string."
+
     repo_api_url = f"https://api.github.com/users/{user}/repos"
     api_response = requests.get(repo_api_url)
 
-    if api_response.status_code != 200:
-        print("No Username / No Response")
-        return False
+    if not api_response.ok:
+        return "Invalid username."
     
     repos = api_response.json()
-
-    if len(repos) == 0:
-        print("The user has no Repositories")
-        return False
-
+    
     for repo in repos:
         commits_api_url = f"https://api.github.com/repos/{user}/{repo['name']}/commits"
         commit_response = requests.get(commits_api_url)
@@ -25,5 +23,5 @@ def user_repos(user):
     return True
 
 if __name__ == "__main__":
-    username = input("Enter your github username/userID: ")
-    user_repos(username)
+    user = input("Enter your github username/userID: ")
+    user_repos(user)
