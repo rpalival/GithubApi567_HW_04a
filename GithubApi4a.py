@@ -1,8 +1,6 @@
 import json
 import requests
 
-username = input("Enter your github username/userID: ")
-
 def user_repos(user):
     
     repo_api_url = f"https://api.github.com/users/{user}/repos"
