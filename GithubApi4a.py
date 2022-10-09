@@ -3,8 +3,8 @@ import requests
 
 def user_repos(user):
     
-    if not isinstance(user, str):
-        return "Your Input is invalid! Please enter a string."
+    if user == '':
+        return "empty string is invalid input for a username! Please enter a non-empty string."
 
     repo_api_url = f"https://api.github.com/users/{user}/repos"
     api_response = requests.get(repo_api_url)
@@ -13,7 +13,7 @@ def user_repos(user):
         return "Invalid username."
     
     repos = api_response.json()
-    
+
     for repo in repos:
         commits_api_url = f"https://api.github.com/repos/{user}/{repo['name']}/commits"
         commit_response = requests.get(commits_api_url)
