@@ -27,4 +27,5 @@ def user_repos(user):
     return True
 
 if __name__ == "__main__":
+    username = input("Enter your github username/userID: ")
     user_repos(username)
