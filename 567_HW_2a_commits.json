@@ -1,0 +1,2296 @@
+[
+  {
+    "sha": "cb85a88a49ef4ab6c06ed8f2c7d20a654870dd8e",
+    "node_id": "C_kwDOICk3udoAKGNiODVhODhhNDllZjRhYjZjMDZlZDhmMmM3ZDIwYTY1NDg3MGRkOGU",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "rpalival@stevens.edu",
+        "date": "2022-10-12T02:53:01Z"
+      },
+      "committer": {
+        "name": "rpalival",
+        "email": "rpalival@stevens.edu",
+        "date": "2022-10-12T02:53:01Z"
+      },
+      "message": "hidden file commits",
+      "tree": {
+        "sha": "f464f646286a005b0dde67217962abef5c82b5b2",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/f464f646286a005b0dde67217962abef5c82b5b2"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/cb85a88a49ef4ab6c06ed8f2c7d20a654870dd8e",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/cb85a88a49ef4ab6c06ed8f2c7d20a654870dd8e",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/cb85a88a49ef4ab6c06ed8f2c7d20a654870dd8e",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/cb85a88a49ef4ab6c06ed8f2c7d20a654870dd8e/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5ef90ab58bc61927b6c499116ccb9fe9416dab6c",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/5ef90ab58bc61927b6c499116ccb9fe9416dab6c",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/5ef90ab58bc61927b6c499116ccb9fe9416dab6c"
+      }
+    ]
+  },
+  {
+    "sha": "5ef90ab58bc61927b6c499116ccb9fe9416dab6c",
+    "node_id": "C_kwDOICk3udoAKDVlZjkwYWI1OGJjNjE5MjdiNmM0OTkxMTZjY2I5ZmU5NDE2ZGFiNmM",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "rpalival@stevens.edu",
+        "date": "2022-10-12T00:16:38Z"
+      },
+      "committer": {
+        "name": "rpalival",
+        "email": "rpalival@stevens.edu",
+        "date": "2022-10-12T00:16:38Z"
+      },
+      "message": "Latest code after 100% coverage score",
+      "tree": {
+        "sha": "045cbeeab70ba0fd90f86424971a516579e75374",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/045cbeeab70ba0fd90f86424971a516579e75374"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/5ef90ab58bc61927b6c499116ccb9fe9416dab6c",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/5ef90ab58bc61927b6c499116ccb9fe9416dab6c",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/5ef90ab58bc61927b6c499116ccb9fe9416dab6c",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/5ef90ab58bc61927b6c499116ccb9fe9416dab6c/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b197505e9180a153ccdd47b7efd066156f46c8a8",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/b197505e9180a153ccdd47b7efd066156f46c8a8",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/b197505e9180a153ccdd47b7efd066156f46c8a8"
+      }
+    ]
+  },
+  {
+    "sha": "b197505e9180a153ccdd47b7efd066156f46c8a8",
+    "node_id": "C_kwDOICk3udoAKGIxOTc1MDVlOTE4MGExNTNjY2RkNDdiN2VmZDA2NjE1NmY0NmM4YTg",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "112983661+rpalival@users.noreply.github.com",
+        "date": "2022-10-11T23:51:44Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-10-11T23:51:44Z"
+      },
+      "message": "Rename Triangle.py to triangle.py",
+      "tree": {
+        "sha": "7a08e93feca20d6b258c43808cb226be95d640c6",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/7a08e93feca20d6b258c43808cb226be95d640c6"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/b197505e9180a153ccdd47b7efd066156f46c8a8",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjRgGQCRBK7hj4Ov3rIwAA3wkIAEuz0INrfmXGQrhXkezqiTQz\nKyiFQpgoh5UirgNW7Ii/pyxVWIhagoVQbzvmGsvPZopn/u3sLy5BaOP7YNJX7UIj\nekVLames3yYn9a336h1/eLFHK6AjxsnTRCUARXUs6yvKqWRj6V+FjvX9VKOpyw7G\njr4/JCFgnmiK2828kiDUrYPnf0h2qU7nObj61eM5jwtB1uMit/ORPgJES/GFDIwJ\nJ81RQduivAoOqWTJUHNlfSzVKazGCOlQoW7Mv/liu/iVravnZBoGkRbv5jKDKZgl\n2UfteNitaWsuWrXM2eQntkEam7wtuMNB8Umqbo7/WIN+v4x6L4SeWI6zCWmKafE=\n=MzAk\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 7a08e93feca20d6b258c43808cb226be95d640c6\nparent 3e36d146142464c7d961acdd234a2b8f754ce654\nauthor rpalival <112983661+rpalival@users.noreply.github.com> 1665532304 -0400\ncommitter GitHub <noreply@github.com> 1665532304 -0400\n\nRename Triangle.py to triangle.py"
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/b197505e9180a153ccdd47b7efd066156f46c8a8",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/b197505e9180a153ccdd47b7efd066156f46c8a8",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/b197505e9180a153ccdd47b7efd066156f46c8a8/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "3e36d146142464c7d961acdd234a2b8f754ce654",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/3e36d146142464c7d961acdd234a2b8f754ce654",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/3e36d146142464c7d961acdd234a2b8f754ce654"
+      }
+    ]
+  },
+  {
+    "sha": "3e36d146142464c7d961acdd234a2b8f754ce654",
+    "node_id": "C_kwDOICk3udoAKDNlMzZkMTQ2MTQyNDY0YzdkOTYxYWNkZDIzNGEyYjhmNzU0Y2U2NTQ",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "rpalival@stevens.edu",
+        "date": "2022-10-11T23:44:30Z"
+      },
+      "committer": {
+        "name": "rpalival",
+        "email": "rpalival@stevens.edu",
+        "date": "2022-10-11T23:44:30Z"
+      },
+      "message": "changed file name",
+      "tree": {
+        "sha": "acebd52798f5ad926a570ffa4bcea9166e92faf0",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/acebd52798f5ad926a570ffa4bcea9166e92faf0"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/3e36d146142464c7d961acdd234a2b8f754ce654",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/3e36d146142464c7d961acdd234a2b8f754ce654",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/3e36d146142464c7d961acdd234a2b8f754ce654",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/3e36d146142464c7d961acdd234a2b8f754ce654/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "658b7c1d4d73059332eea020becb344fa53c15e2",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/658b7c1d4d73059332eea020becb344fa53c15e2",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/658b7c1d4d73059332eea020becb344fa53c15e2"
+      }
+    ]
+  },
+  {
+    "sha": "658b7c1d4d73059332eea020becb344fa53c15e2",
+    "node_id": "C_kwDOICk3udoAKDY1OGI3YzFkNGQ3MzA1OTMzMmVlYTAyMGJlY2IzNDRmYTUzYzE1ZTI",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "rpalival@stevens.edu",
+        "date": "2022-10-11T23:42:23Z"
+      },
+      "committer": {
+        "name": "rpalival",
+        "email": "rpalival@stevens.edu",
+        "date": "2022-10-11T23:42:23Z"
+      },
+      "message": "improved triangle file",
+      "tree": {
+        "sha": "2b6aa3daa19ba5a7cacffc90962445ca09889148",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/2b6aa3daa19ba5a7cacffc90962445ca09889148"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/658b7c1d4d73059332eea020becb344fa53c15e2",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/658b7c1d4d73059332eea020becb344fa53c15e2",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/658b7c1d4d73059332eea020becb344fa53c15e2",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/658b7c1d4d73059332eea020becb344fa53c15e2/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "2730de85df036dcb820004ec338d9e4d0c411a0c",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/2730de85df036dcb820004ec338d9e4d0c411a0c",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/2730de85df036dcb820004ec338d9e4d0c411a0c"
+      }
+    ]
+  },
+  {
+    "sha": "2730de85df036dcb820004ec338d9e4d0c411a0c",
+    "node_id": "C_kwDOICk3udoAKDI3MzBkZTg1ZGYwMzZkY2I4MjAwMDRlYzMzOGQ5ZTRkMGM0MTFhMGM",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "rpalival@stevens.edu",
+        "date": "2022-10-11T23:33:06Z"
+      },
+      "committer": {
+        "name": "rpalival",
+        "email": "rpalival@stevens.edu",
+        "date": "2022-10-11T23:33:06Z"
+      },
+      "message": "2nd change",
+      "tree": {
+        "sha": "2424034d82be59c6a4ffd13e67ef395e3cd50afc",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/2424034d82be59c6a4ffd13e67ef395e3cd50afc"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/2730de85df036dcb820004ec338d9e4d0c411a0c",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/2730de85df036dcb820004ec338d9e4d0c411a0c",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/2730de85df036dcb820004ec338d9e4d0c411a0c",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/2730de85df036dcb820004ec338d9e4d0c411a0c/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "a8ada09b6f1d9c65f926e12b89461bd155bef52a",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/a8ada09b6f1d9c65f926e12b89461bd155bef52a",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/a8ada09b6f1d9c65f926e12b89461bd155bef52a"
+      }
+    ]
+  },
+  {
+    "sha": "a8ada09b6f1d9c65f926e12b89461bd155bef52a",
+    "node_id": "C_kwDOICk3udoAKGE4YWRhMDliNmYxZDljNjVmOTI2ZTEyYjg5NDYxYmQxNTViZWY1MmE",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "rpalival@stevens.edu",
+        "date": "2022-10-11T23:26:42Z"
+      },
+      "committer": {
+        "name": "rpalival",
+        "email": "rpalival@stevens.edu",
+        "date": "2022-10-11T23:26:42Z"
+      },
+      "message": "forgot to change the calling function name in test",
+      "tree": {
+        "sha": "a68c355044956ae646622449bd673cd2a6cc7613",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/a68c355044956ae646622449bd673cd2a6cc7613"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/a8ada09b6f1d9c65f926e12b89461bd155bef52a",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/a8ada09b6f1d9c65f926e12b89461bd155bef52a",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/a8ada09b6f1d9c65f926e12b89461bd155bef52a",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/a8ada09b6f1d9c65f926e12b89461bd155bef52a/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7dc7e6eb852ab531a14ba8e3b3caff5bf81bdbb9",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/7dc7e6eb852ab531a14ba8e3b3caff5bf81bdbb9",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/7dc7e6eb852ab531a14ba8e3b3caff5bf81bdbb9"
+      }
+    ]
+  },
+  {
+    "sha": "7dc7e6eb852ab531a14ba8e3b3caff5bf81bdbb9",
+    "node_id": "C_kwDOICk3udoAKDdkYzdlNmViODUyYWI1MzFhMTRiYThlM2IzY2FmZjViZjgxYmRiYjk",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "rpalival@stevens.edu",
+        "date": "2022-10-11T23:24:28Z"
+      },
+      "committer": {
+        "name": "rpalival",
+        "email": "rpalival@stevens.edu",
+        "date": "2022-10-11T23:24:28Z"
+      },
+      "message": "changes after running pylint and coverage",
+      "tree": {
+        "sha": "956eea8e77b66a3980c3f6154195d4df1fa35028",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/956eea8e77b66a3980c3f6154195d4df1fa35028"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/7dc7e6eb852ab531a14ba8e3b3caff5bf81bdbb9",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/7dc7e6eb852ab531a14ba8e3b3caff5bf81bdbb9",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/7dc7e6eb852ab531a14ba8e3b3caff5bf81bdbb9",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/7dc7e6eb852ab531a14ba8e3b3caff5bf81bdbb9/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e0ad74e051f5d07fcfa310b867a04abba2533e6b",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/e0ad74e051f5d07fcfa310b867a04abba2533e6b",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/e0ad74e051f5d07fcfa310b867a04abba2533e6b"
+      }
+    ]
+  },
+  {
+    "sha": "e0ad74e051f5d07fcfa310b867a04abba2533e6b",
+    "node_id": "C_kwDOICk3udoAKGUwYWQ3NGUwNTFmNWQwN2ZjZmEzMTBiODY3YTA0YWJiYTI1MzNlNmI",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "112983661+rpalival@users.noreply.github.com",
+        "date": "2022-10-08T09:00:00Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-10-08T09:00:00Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "0de66e017fb662dcec6ebce57809561ddfb28662",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/0de66e017fb662dcec6ebce57809561ddfb28662"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/e0ad74e051f5d07fcfa310b867a04abba2533e6b",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjQTwQCRBK7hj4Ov3rIwAAyHsIAHkqDMR1LjnR9x6l3kLGecox\nuuywTOcT3eWfKjS0AJeqxLzVWXtfMPDKc2/kNz+9U+wSfZjxMTvk/mpe524z1yMo\nVcfSyGWWYQ0f8Zr0Nv2DTL3wg99FrMDd6lr6wIwO3ScvuagsBvxl8xCiPFtA5vpb\nF3iBGZa5KbiewDOCnXOkhMF6eSaBzPtCoLk4Ji0jc8NoZfnuI22D3ieLT415cJ1S\nYLkmu+DPyRHdBlfR9XqNz04rgYHKu1fKoEVBR9np7e1La045bJlgbEUmT/0IVmhm\nn2/c1s+W/KCwnXW0Zyo865wJKi4nlPJ+0bKkiBL9tntP8xNUuvQpeZwLVxVtiXo=\n=AqVG\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 0de66e017fb662dcec6ebce57809561ddfb28662\nparent 60b8b522ff901222975aa9deb26b83ce6264cb07\nauthor rpalival <112983661+rpalival@users.noreply.github.com> 1665219600 -0400\ncommitter GitHub <noreply@github.com> 1665219600 -0400\n\nUpdate README.md"
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/e0ad74e051f5d07fcfa310b867a04abba2533e6b",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/e0ad74e051f5d07fcfa310b867a04abba2533e6b",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/e0ad74e051f5d07fcfa310b867a04abba2533e6b/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "60b8b522ff901222975aa9deb26b83ce6264cb07",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/60b8b522ff901222975aa9deb26b83ce6264cb07",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/60b8b522ff901222975aa9deb26b83ce6264cb07"
+      }
+    ]
+  },
+  {
+    "sha": "60b8b522ff901222975aa9deb26b83ce6264cb07",
+    "node_id": "C_kwDOICk3udoAKDYwYjhiNTIyZmY5MDEyMjI5NzVhYTlkZWIyNmI4M2NlNjI2NGNiMDc",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "112983661+rpalival@users.noreply.github.com",
+        "date": "2022-10-08T08:56:44Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-10-08T08:56:44Z"
+      },
+      "message": "Update config.yml",
+      "tree": {
+        "sha": "edae9a58175525450c65d48c7f097404122d62bc",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/edae9a58175525450c65d48c7f097404122d62bc"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/60b8b522ff901222975aa9deb26b83ce6264cb07",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjQTtMCRBK7hj4Ov3rIwAAKBgIABHnDtsDVGUHOiPEAkshLZpz\nc4k8MlkWi3WwsrV+CgdqkulLF7ij8OxxSkNXQea7Som7ZYFX7YFJjyrueU6gCkl1\n2kxDv14YdaiPyFYat7fvwHMCE+V+rph0PkoGKUvPss8Cm2OSqkvHiddNFt+ipQMs\nD1tr7i5PDIlP/cYIAmfeDPOTFE28TDz3pwJV9c9ZRGhXR3dJbzYHRbMZjidRDQUx\nC1Wo+vlTtTVT3iCJ7CVdQqzkf0FAWMPsET758eoY6SK85uo1XgUTAv6EvLLdIpmu\n9P7cCXN3h/OD13G0dDB08OKMZmXJ/MB9AcHitUmfFEYEGBohF0lIFZLsLANyQgE=\n=tGPR\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree edae9a58175525450c65d48c7f097404122d62bc\nparent acf9d6d2aa553e2d7fafa5276fea7e3962a0ff6f\nauthor rpalival <112983661+rpalival@users.noreply.github.com> 1665219404 -0400\ncommitter GitHub <noreply@github.com> 1665219404 -0400\n\nUpdate config.yml"
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/60b8b522ff901222975aa9deb26b83ce6264cb07",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/60b8b522ff901222975aa9deb26b83ce6264cb07",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/60b8b522ff901222975aa9deb26b83ce6264cb07/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "acf9d6d2aa553e2d7fafa5276fea7e3962a0ff6f",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/acf9d6d2aa553e2d7fafa5276fea7e3962a0ff6f",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/acf9d6d2aa553e2d7fafa5276fea7e3962a0ff6f"
+      }
+    ]
+  },
+  {
+    "sha": "acf9d6d2aa553e2d7fafa5276fea7e3962a0ff6f",
+    "node_id": "C_kwDOICk3udoAKGFjZjlkNmQyYWE1NTNlMmQ3ZmFmYTUyNzZmZWE3ZTM5NjJhMGZmNmY",
+    "commit": {
+      "author": {
+        "name": "Raj Palival",
+        "email": "rajpalival@macbook-pro.mynetworksettings.com",
+        "date": "2022-10-08T08:46:17Z"
+      },
+      "committer": {
+        "name": "Raj Palival",
+        "email": "rajpalival@macbook-pro.mynetworksettings.com",
+        "date": "2022-10-08T08:46:17Z"
+      },
+      "message": "updated the scalene test case",
+      "tree": {
+        "sha": "c9ed96dbe099983e6fdaffb03657ca343d7b4b20",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/c9ed96dbe099983e6fdaffb03657ca343d7b4b20"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/acf9d6d2aa553e2d7fafa5276fea7e3962a0ff6f",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/acf9d6d2aa553e2d7fafa5276fea7e3962a0ff6f",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/acf9d6d2aa553e2d7fafa5276fea7e3962a0ff6f",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/acf9d6d2aa553e2d7fafa5276fea7e3962a0ff6f/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "d9c7dea6d74cecf987fb4c3700fac919a2ab533c",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/d9c7dea6d74cecf987fb4c3700fac919a2ab533c",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/d9c7dea6d74cecf987fb4c3700fac919a2ab533c"
+      }
+    ]
+  },
+  {
+    "sha": "d9c7dea6d74cecf987fb4c3700fac919a2ab533c",
+    "node_id": "C_kwDOICk3udoAKGQ5YzdkZWE2ZDc0Y2VjZjk4N2ZiNGMzNzAwZmFjOTE5YTJhYjUzM2M",
+    "commit": {
+      "author": {
+        "name": "Raj Palival",
+        "email": "rajpalival@macbook-pro.mynetworksettings.com",
+        "date": "2022-10-08T08:40:43Z"
+      },
+      "committer": {
+        "name": "Raj Palival",
+        "email": "rajpalival@macbook-pro.mynetworksettings.com",
+        "date": "2022-10-08T08:40:43Z"
+      },
+      "message": "changed my laptop hence replacing the files with iimproved code after grading",
+      "tree": {
+        "sha": "1119b00285d961a57d0b766fc2ab9c4ac15fe3e4",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/1119b00285d961a57d0b766fc2ab9c4ac15fe3e4"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/d9c7dea6d74cecf987fb4c3700fac919a2ab533c",
+      "comment_count": 0,
+      "verification": {
+        "verified": false,
+        "reason": "unsigned",
+        "signature": null,
+        "payload": null
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/d9c7dea6d74cecf987fb4c3700fac919a2ab533c",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/d9c7dea6d74cecf987fb4c3700fac919a2ab533c",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/d9c7dea6d74cecf987fb4c3700fac919a2ab533c/comments",
+    "author": null,
+    "committer": null,
+    "parents": [
+      {
+        "sha": "0f49eec2e4d6dd6ad7ee407c5a984358098998e4",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/0f49eec2e4d6dd6ad7ee407c5a984358098998e4",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/0f49eec2e4d6dd6ad7ee407c5a984358098998e4"
+      }
+    ]
+  },
+  {
+    "sha": "0f49eec2e4d6dd6ad7ee407c5a984358098998e4",
+    "node_id": "C_kwDOICk3udoAKDBmNDllZWMyZTRkNmRkNmFkN2VlNDA3YzVhOTg0MzU4MDk4OTk4ZTQ",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "112983661+rpalival@users.noreply.github.com",
+        "date": "2022-09-27T00:34:54Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-27T00:34:54Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "7d49a4115a1900c2f36f96874c3ac3c428475a90",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/7d49a4115a1900c2f36f96874c3ac3c428475a90"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/0f49eec2e4d6dd6ad7ee407c5a984358098998e4",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjMkUuCRBK7hj4Ov3rIwAAaBIIADFoeeG6lZss7fXjM4qUABJz\nL8I36Qixj4ev/oQCxGp+6224b+xVJj5P2GFGpyPr2gCznZYUTA0XAm+dVQ5+hOGt\nWUsgaDqMSX76AM1Rr2qhTOc6T8Ea9FGGQJC9XPXY/DKusWWW+aa2b/AK8YZpT92/\nxvy7lEiKpMzEfolHnQ2IActHXypLL51E8ODfUWEEHsrOX5rSoJZyg/ukksZlDorv\no1WeA8uczwEApHoBjFYySbaBN/NTtKN8fB0LNH4V8nQG1mZlVZWVJEDQXFrw5Vor\nM8We2OQGunQeTyKEXoo2fmiVIYWWxHpaxtwb/AwNieSsMcSxKp5FKv4r6moWMHg=\n=LiMK\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 7d49a4115a1900c2f36f96874c3ac3c428475a90\nparent 65e292322b731df427a7c03b52b649f3bd9f97d2\nauthor rpalival <112983661+rpalival@users.noreply.github.com> 1664238894 -0400\ncommitter GitHub <noreply@github.com> 1664238894 -0400\n\nUpdate README.md"
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/0f49eec2e4d6dd6ad7ee407c5a984358098998e4",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/0f49eec2e4d6dd6ad7ee407c5a984358098998e4",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/0f49eec2e4d6dd6ad7ee407c5a984358098998e4/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "65e292322b731df427a7c03b52b649f3bd9f97d2",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/65e292322b731df427a7c03b52b649f3bd9f97d2",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/65e292322b731df427a7c03b52b649f3bd9f97d2"
+      }
+    ]
+  },
+  {
+    "sha": "65e292322b731df427a7c03b52b649f3bd9f97d2",
+    "node_id": "C_kwDOICk3udoAKDY1ZTI5MjMyMmI3MzFkZjQyN2E3YzAzYjUyYjY0OWYzYmQ5Zjk3ZDI",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "112983661+rpalival@users.noreply.github.com",
+        "date": "2022-09-27T00:21:17Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-27T00:21:17Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "99052e3611731be99e68191e103d9e03c143a64d",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/99052e3611731be99e68191e103d9e03c143a64d"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/65e292322b731df427a7c03b52b649f3bd9f97d2",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjMkH9CRBK7hj4Ov3rIwAAxVkIAJAZMiT6NL+7PniOQ/At4Z7p\nWGSCQ6phQqsvcGIWwMnB0lPiNKuWA1sPKlTUwQUPpjOBg/Pl+Hl1oVFx4QUHKJcf\nM6Rh7wt4eFFBEfNXp+RIZhbjT9pQJEWuJzL1JHtqYFqKvxif2GygyvwULfuAtWN4\nvI6ZGHcLSel1Mp+XOVVYPqiynZST4i+Pf3u5lwB5ujQgtKlqXzsNGEL+wamcLAig\n8+HbSTNLZbVB2e449ufo1wwDi8TOQoqmkczL+tUFcXNPv7KmG+cmmUtudrLCSG0Z\n+NClNUCezcsgLkw5QLF0BWJOeu4zm/dmzPjavrmmlLDHhG8JZ3eHJbc/dFyPmz8=\n=1u0x\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 99052e3611731be99e68191e103d9e03c143a64d\nparent c507a9797fb85521054d8b901ad9edea9e5352bf\nauthor rpalival <112983661+rpalival@users.noreply.github.com> 1664238077 -0400\ncommitter GitHub <noreply@github.com> 1664238077 -0400\n\nUpdate README.md"
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/65e292322b731df427a7c03b52b649f3bd9f97d2",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/65e292322b731df427a7c03b52b649f3bd9f97d2",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/65e292322b731df427a7c03b52b649f3bd9f97d2/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "c507a9797fb85521054d8b901ad9edea9e5352bf",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/c507a9797fb85521054d8b901ad9edea9e5352bf",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/c507a9797fb85521054d8b901ad9edea9e5352bf"
+      }
+    ]
+  },
+  {
+    "sha": "c507a9797fb85521054d8b901ad9edea9e5352bf",
+    "node_id": "C_kwDOICk3udoAKGM1MDdhOTc5N2ZiODU1MjEwNTRkOGI5MDFhZDllZGVhOWU1MzUyYmY",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "112983661+rpalival@users.noreply.github.com",
+        "date": "2022-09-27T00:17:23Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-27T00:17:23Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "e0c00b8a88760960a3a34a86af7ac874638f8950",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/e0c00b8a88760960a3a34a86af7ac874638f8950"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/c507a9797fb85521054d8b901ad9edea9e5352bf",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjMkETCRBK7hj4Ov3rIwAAWC0IABSlX6ZgfD5pXjmVyKtHb/jO\noL2M6+hmQAonEOIW3wvad9QdqZ4zbg+OqYqL4hUv/t8pFHKPs5Ezw1VDDJaE+0Tb\nge+vQrwnCnZaLKYxZY3WOa8BGEQ+AUsFJABw907VPtnN52SvmHiDFeafHEbsIJXv\npDGc6wEHRnEO8NOQDGqxhJKlWRbEPa4F6HhmowOEk/6xrZmHWP8jP6S3hSXnWQzB\nZl/7dWnQ53Ohdjb9Dvm7WTKJFsSZGBgo2mhujBtopw2+Xn6Z9MHYSbyRaa66Nm8/\nxvm8NxTyeThVJ8ZG6jIGVMKvvQ8HnYxww8PuJkcq65S55BmaLujNVTIdIzQd1k4=\n=N/Ms\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree e0c00b8a88760960a3a34a86af7ac874638f8950\nparent 531484a258bc0c4db77eeccb1f76d7127ddaffcf\nauthor rpalival <112983661+rpalival@users.noreply.github.com> 1664237843 -0400\ncommitter GitHub <noreply@github.com> 1664237843 -0400\n\nUpdate README.md"
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/c507a9797fb85521054d8b901ad9edea9e5352bf",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/c507a9797fb85521054d8b901ad9edea9e5352bf",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/c507a9797fb85521054d8b901ad9edea9e5352bf/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "531484a258bc0c4db77eeccb1f76d7127ddaffcf",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/531484a258bc0c4db77eeccb1f76d7127ddaffcf",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/531484a258bc0c4db77eeccb1f76d7127ddaffcf"
+      }
+    ]
+  },
+  {
+    "sha": "531484a258bc0c4db77eeccb1f76d7127ddaffcf",
+    "node_id": "C_kwDOICk3udoAKDUzMTQ4NGEyNThiYzBjNGRiNzdlZWNjYjFmNzZkNzEyN2RkYWZmY2Y",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "112983661+rpalival@users.noreply.github.com",
+        "date": "2022-09-27T00:16:27Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-27T00:16:27Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "f9c6da1efd7661cb7a34f8f84bcc3bec1ce046f8",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/f9c6da1efd7661cb7a34f8f84bcc3bec1ce046f8"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/531484a258bc0c4db77eeccb1f76d7127ddaffcf",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjMkDbCRBK7hj4Ov3rIwAAlGUIAG8xr86E0+IFEzNHeT4javS5\n91Lz9T59JHMy4YU4XF2+CgGuw/n6vtWXh62ox/H3JVGpcZX8Wx1jNPkkKtTSX3nm\nqGBHSabJYwelHskM+Sbug9Eeb/i8P4LqUzyQfRrneyTBfr1Nq2HbN0Qz/miOlT31\nI2bEnWSyjGlqKUMvHPZwq+mtfuVWSpS16DfESseIp98gNXTQIhgj9zSNBtdselta\ndOrREqBcrtyGDG327uTLcnipTdsW5SSNmJeCtCuSyfhphfD+iPkgM2E4CQU/dZOO\nf11bU6H/zHoxi1toR9KQRGLrY4ABRE+hyCvzOYrw/IAQu0UWSQ74r+mIZu2LMfE=\n=sCSW\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree f9c6da1efd7661cb7a34f8f84bcc3bec1ce046f8\nparent 2c77d713f25e5b815271932872ff83add300f463\nauthor rpalival <112983661+rpalival@users.noreply.github.com> 1664237787 -0400\ncommitter GitHub <noreply@github.com> 1664237787 -0400\n\nUpdate README.md"
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/531484a258bc0c4db77eeccb1f76d7127ddaffcf",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/531484a258bc0c4db77eeccb1f76d7127ddaffcf",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/531484a258bc0c4db77eeccb1f76d7127ddaffcf/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "2c77d713f25e5b815271932872ff83add300f463",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/2c77d713f25e5b815271932872ff83add300f463",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/2c77d713f25e5b815271932872ff83add300f463"
+      }
+    ]
+  },
+  {
+    "sha": "2c77d713f25e5b815271932872ff83add300f463",
+    "node_id": "C_kwDOICk3udoAKDJjNzdkNzEzZjI1ZTViODE1MjcxOTMyODcyZmY4M2FkZDMwMGY0NjM",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "112983661+rpalival@users.noreply.github.com",
+        "date": "2022-09-26T23:58:49Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-26T23:58:49Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "8333b903d1be4ec1a82dba44e9a3343d846437a7",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/8333b903d1be4ec1a82dba44e9a3343d846437a7"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/2c77d713f25e5b815271932872ff83add300f463",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjMjy5CRBK7hj4Ov3rIwAA7NkIAC5imnVnhd+FFMOvC9EHhNiD\nxKK2ebOzHKqkvHrJfrc4CrObIYOmyzIakBxHw71Ip1M3zqI+sFrNk3Q8if0OT23+\n5RMw6RUN1ZYEMe1xYXJQsVYEw7bjGliJ3/UyO/uGmukUowKpCzzQ3OhhpTmydjP5\nbu16+TZupgHr6jTEYj4JBLCqJF+EnW8Clq9GCgS/DKeHJTOVfTLE4z/8LY0EWQF0\nE9oT2+znsCHofHi1QvkQGsg8CBWwYRcMtebS+8+1Zr9EaIZiYw2PUXa3bGynPZ2d\nvrgyFXrvQ2PC1IRBv0RJvoNpbxqcMNYYRfV0C/JFepNlgF2iexHqkFLnh7ZC4p0=\n=yrBm\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 8333b903d1be4ec1a82dba44e9a3343d846437a7\nparent 29ca6a2872d8d5da3cca872ef5f810c9c236567c\nauthor rpalival <112983661+rpalival@users.noreply.github.com> 1664236729 -0400\ncommitter GitHub <noreply@github.com> 1664236729 -0400\n\nUpdate README.md"
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/2c77d713f25e5b815271932872ff83add300f463",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/2c77d713f25e5b815271932872ff83add300f463",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/2c77d713f25e5b815271932872ff83add300f463/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "29ca6a2872d8d5da3cca872ef5f810c9c236567c",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/29ca6a2872d8d5da3cca872ef5f810c9c236567c",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/29ca6a2872d8d5da3cca872ef5f810c9c236567c"
+      }
+    ]
+  },
+  {
+    "sha": "29ca6a2872d8d5da3cca872ef5f810c9c236567c",
+    "node_id": "C_kwDOICk3udoAKDI5Y2E2YTI4NzJkOGQ1ZGEzY2NhODcyZWY1ZjgxMGM5YzIzNjU2N2M",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "112983661+rpalival@users.noreply.github.com",
+        "date": "2022-09-26T23:57:36Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-26T23:57:36Z"
+      },
+      "message": "Update README.md",
+      "tree": {
+        "sha": "877b820d7ed1f2e1b7098d19c9767f8988a6e8c6",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/877b820d7ed1f2e1b7098d19c9767f8988a6e8c6"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/29ca6a2872d8d5da3cca872ef5f810c9c236567c",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjMjxwCRBK7hj4Ov3rIwAABboIAFR8WGgRvkwluhqoQ3nFuE6N\naE7ifon4SQFtqZJ7SPIm8tzsLgZZ7pUAslhoYmXIBYRUEdy6e0idC8w0YelOW6wN\n9unC/AnNuFVUDACye+DY85B4IGF5woO2h5s2O6CGeW0Nh6NucgS/Ts1Ios0QmrUD\nu6WfuDmMhpB+ftBHGVTWD2XeV1665SHgMWdwAlkccsTVQ6aHNUYOKSRTvn2BNZNl\nhwK/rf+lwZNSfeyHCtOX26/pAk/pPc5CSwQuLIwULplnXEEZeBEwtsILWAPozjS8\nHPaLPmjt+7DwPD3CbRQIBLKEmvAhRhesOG1IQ0cCqsH1ZnbEJupxQMXsu1g8uc8=\n=EndG\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 877b820d7ed1f2e1b7098d19c9767f8988a6e8c6\nparent d6465f31252f12bfac5fa127ec09d6a54f71c23d\nauthor rpalival <112983661+rpalival@users.noreply.github.com> 1664236656 -0400\ncommitter GitHub <noreply@github.com> 1664236656 -0400\n\nUpdate README.md"
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/29ca6a2872d8d5da3cca872ef5f810c9c236567c",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/29ca6a2872d8d5da3cca872ef5f810c9c236567c",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/29ca6a2872d8d5da3cca872ef5f810c9c236567c/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "d6465f31252f12bfac5fa127ec09d6a54f71c23d",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/d6465f31252f12bfac5fa127ec09d6a54f71c23d",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/d6465f31252f12bfac5fa127ec09d6a54f71c23d"
+      }
+    ]
+  },
+  {
+    "sha": "d6465f31252f12bfac5fa127ec09d6a54f71c23d",
+    "node_id": "C_kwDOICk3udoAKGQ2NDY1ZjMxMjUyZjEyYmZhYzVmYTEyN2VjMDlkNmE1NGY3MWMyM2Q",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "112983661+rpalival@users.noreply.github.com",
+        "date": "2022-09-26T23:54:35Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-26T23:54:35Z"
+      },
+      "message": "Update config.yml",
+      "tree": {
+        "sha": "8b7f5f4cf82689c3507d7c92c2de79e9b0ac2c74",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/8b7f5f4cf82689c3507d7c92c2de79e9b0ac2c74"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/d6465f31252f12bfac5fa127ec09d6a54f71c23d",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjMju7CRBK7hj4Ov3rIwAA2nQIAJKZB4ijONtxIzH+L8Alp34I\ncER1bPaucGeO2E2yszFuAjLgsh1W3DPtalj61a2vXCiAcAzk8fMkVqXJNG/mbbvx\nm2zbwKY1EpyPwOwe6LI0LUiHydO7+FcOKCpXQxHQFd3WqHB5W8ItrPie6Riyln6M\nylvcDLAhqkyXaljFQYXcvN8ZWvOrMkAziEYQkkIyPs3fBy1Csy0xy1kh51KiRs5b\nS0CozHZcRfvnULbprvNHH/n06qNLGiW53qPm98zmoZaoAUwd6pip0tP6AZB9fPxQ\nBS5FpBmSpqGiWuRNCVKz4YnK0fKmt/aJhgFkV5RyBHOnj3JDRAPHkE0zm/FZZXM=\n=dwKm\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 8b7f5f4cf82689c3507d7c92c2de79e9b0ac2c74\nparent 3fac97d27a6b0c4b894ca25b8750f49c9a995fe1\nauthor rpalival <112983661+rpalival@users.noreply.github.com> 1664236475 -0400\ncommitter GitHub <noreply@github.com> 1664236475 -0400\n\nUpdate config.yml"
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/d6465f31252f12bfac5fa127ec09d6a54f71c23d",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/d6465f31252f12bfac5fa127ec09d6a54f71c23d",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/d6465f31252f12bfac5fa127ec09d6a54f71c23d/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "3fac97d27a6b0c4b894ca25b8750f49c9a995fe1",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/3fac97d27a6b0c4b894ca25b8750f49c9a995fe1",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/3fac97d27a6b0c4b894ca25b8750f49c9a995fe1"
+      }
+    ]
+  },
+  {
+    "sha": "3fac97d27a6b0c4b894ca25b8750f49c9a995fe1",
+    "node_id": "C_kwDOICk3udoAKDNmYWM5N2QyN2E2YjBjNGI4OTRjYTI1Yjg3NTBmNDljOWE5OTVmZTE",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "112983661+rpalival@users.noreply.github.com",
+        "date": "2022-09-26T23:43:45Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-26T23:43:45Z"
+      },
+      "message": "Update config.yml",
+      "tree": {
+        "sha": "2911f7c950136e8b67c63630ecba2e3d56f421ba",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/2911f7c950136e8b67c63630ecba2e3d56f421ba"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/3fac97d27a6b0c4b894ca25b8750f49c9a995fe1",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjMjkxCRBK7hj4Ov3rIwAAodcIAK67X77dZ26KaabUD4Rh+9+F\nlSHAm4dBKU9VAll53jlGcZ4LYU7ArJvhdiqEe6K1y9n4upVdkwS7Eh95FZnTANxE\n9Fs0YXl6IlcNBGlhP0p3EGl54dRugSKnwcwJMdjzI08neNMjV3oWdbPjVd9NiDLh\n0q+NJvljvsg/508EVl7kV7ejmv1ewFCU8Kcorhm+OyWjBpBpIY/nAftYMuszpWjv\nOlOYwKrOtVnxWGWOnALAYrnUNcFnS8vjdmcS4ga4HA1g7UpVQrAdq0WccB6rOpCX\nclircGnvSLFonsn2avIFiI1nplTPv7kYmjZOpyERBM8B/vi9syGB+c3IUL7ZKC8=\n=Cp5d\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 2911f7c950136e8b67c63630ecba2e3d56f421ba\nparent 31f270654920b9bc8523b824cc0d25a88b5d2661\nauthor rpalival <112983661+rpalival@users.noreply.github.com> 1664235825 -0400\ncommitter GitHub <noreply@github.com> 1664235825 -0400\n\nUpdate config.yml"
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/3fac97d27a6b0c4b894ca25b8750f49c9a995fe1",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/3fac97d27a6b0c4b894ca25b8750f49c9a995fe1",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/3fac97d27a6b0c4b894ca25b8750f49c9a995fe1/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "31f270654920b9bc8523b824cc0d25a88b5d2661",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/31f270654920b9bc8523b824cc0d25a88b5d2661",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/31f270654920b9bc8523b824cc0d25a88b5d2661"
+      }
+    ]
+  },
+  {
+    "sha": "31f270654920b9bc8523b824cc0d25a88b5d2661",
+    "node_id": "C_kwDOICk3udoAKDMxZjI3MDY1NDkyMGI5YmM4NTIzYjgyNGNjMGQyNWE4OGI1ZDI2NjE",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "112983661+rpalival@users.noreply.github.com",
+        "date": "2022-09-26T23:38:17Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-26T23:38:17Z"
+      },
+      "message": "Update config.yml",
+      "tree": {
+        "sha": "b0dbc7183a822d56067ca3e59fffabd3b56271f2",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/b0dbc7183a822d56067ca3e59fffabd3b56271f2"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/31f270654920b9bc8523b824cc0d25a88b5d2661",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjMjfpCRBK7hj4Ov3rIwAAbpkIAH4pnIu06jtOfCHMuIMCUx4A\nNMIgqgr2xL1rn3nM/Qx6eS0nJOpN5m+HAbxoVaUWKOMhelT3EOVetp81aJUW1s+D\nKo8vReO4MB5acj7nJoh+a6fmLPLK+MiprmJVAlznvwDJB4G9KtbQR+axEslqnDMl\nY8etS9gu8FxurdiNkzZaWj+nG+/OoiJo8hJS/ivEMPSN666kNdU5d9FH/1f1duy1\n27d/EkUp900z3i83kz5Ep8TwK+fVoXQtJ5P9YYwEF/hHKJZSa7g4lLKfrgqbjskZ\nrxqZrLEnxYlaUqVC4RtWnFos5NJM1f0Mo/EeSfNU1t7OmvSwDdTPMYw6TrwReMQ=\n=YIRH\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree b0dbc7183a822d56067ca3e59fffabd3b56271f2\nparent 540a38917c0a0c4d220c48be6ad4993e0b00c9c4\nauthor rpalival <112983661+rpalival@users.noreply.github.com> 1664235497 -0400\ncommitter GitHub <noreply@github.com> 1664235497 -0400\n\nUpdate config.yml"
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/31f270654920b9bc8523b824cc0d25a88b5d2661",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/31f270654920b9bc8523b824cc0d25a88b5d2661",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/31f270654920b9bc8523b824cc0d25a88b5d2661/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "540a38917c0a0c4d220c48be6ad4993e0b00c9c4",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/540a38917c0a0c4d220c48be6ad4993e0b00c9c4",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/540a38917c0a0c4d220c48be6ad4993e0b00c9c4"
+      }
+    ]
+  },
+  {
+    "sha": "540a38917c0a0c4d220c48be6ad4993e0b00c9c4",
+    "node_id": "C_kwDOICk3udoAKDU0MGEzODkxN2MwYTBjNGQyMjBjNDhiZTZhZDQ5OTNlMGIwMGM5YzQ",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "112983661+rpalival@users.noreply.github.com",
+        "date": "2022-09-26T23:34:29Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-26T23:34:29Z"
+      },
+      "message": "Update config.yml",
+      "tree": {
+        "sha": "4489544cc20d89c6d26a044b92d32416db752122",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/4489544cc20d89c6d26a044b92d32416db752122"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/540a38917c0a0c4d220c48be6ad4993e0b00c9c4",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjMjcFCRBK7hj4Ov3rIwAAIT0IAC3Jur55/A376MCC6ShGlNLg\n/42lDLLkuIzk5fBGb6gkwW4rHgVrJwG+LaFDRfckOzydes23w12Qo3rQQl5JXWyX\nQMB1KEoo6Iab5QlIEEmNVikowt5bKnWhmaVy7BblCuOyG6NxLRQhr093G7ssJiXu\nkY0TgNADLnyVmDV8WpoY/VRj6YTjQEsNB+CyBumepGu2QxcFiqsVvUa1L6LDZU/F\nxVDIG2qigP+cKEMMyHKA2zKLZiRxNaefpdv9gtOf1Uz8jawvgGeEeM1KEF9VcOo7\nW54lFui17vv/Yp0vEcMy9/somzCB4P9XQTFw9qzHvt6qSAAVWB2+oeGA4zt2fe8=\n=Gnss\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 4489544cc20d89c6d26a044b92d32416db752122\nparent 13f6b84a76f54ae8d3852abc71780b59546bf70d\nauthor rpalival <112983661+rpalival@users.noreply.github.com> 1664235269 -0400\ncommitter GitHub <noreply@github.com> 1664235269 -0400\n\nUpdate config.yml"
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/540a38917c0a0c4d220c48be6ad4993e0b00c9c4",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/540a38917c0a0c4d220c48be6ad4993e0b00c9c4",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/540a38917c0a0c4d220c48be6ad4993e0b00c9c4/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "13f6b84a76f54ae8d3852abc71780b59546bf70d",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/13f6b84a76f54ae8d3852abc71780b59546bf70d",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/13f6b84a76f54ae8d3852abc71780b59546bf70d"
+      }
+    ]
+  },
+  {
+    "sha": "13f6b84a76f54ae8d3852abc71780b59546bf70d",
+    "node_id": "C_kwDOICk3udoAKDEzZjZiODRhNzZmNTRhZThkMzg1MmFiYzcxNzgwYjU5NTQ2YmY3MGQ",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "112983661+rpalival@users.noreply.github.com",
+        "date": "2022-09-26T23:33:59Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-26T23:33:59Z"
+      },
+      "message": "Update config.yml",
+      "tree": {
+        "sha": "782df94ea6193bf711159f17f1b8d39c62bb3846",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/782df94ea6193bf711159f17f1b8d39c62bb3846"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/13f6b84a76f54ae8d3852abc71780b59546bf70d",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjMjbnCRBK7hj4Ov3rIwAAiswIABRZlEglWMrz1JM1fRNRnGco\nZekOgRFB0CbvGvf12FIvZH4NFkUwTHwVRginxa8gnQBo28wEY03CifQlVUWWJouX\nQEB2CnPDXtrWVCzuGTt4KqZw2yD243hyw1/bAbuUDzzBPSZvIN1qrHAAiSlXxMY9\nCZ47jyv46N9wzAFk5O49UfXHiLssTbnH4ARHtP4fHTsrNDoG82D5xKmXvWLuO9ZA\ncAN+FxSibH67zOrUjQnBA5ylvF0WFLEomW693Sqf0d8WkGwGZCSMw6yQ7GO3JVC1\nKU+gnVdP+g9sSCSFWQQgE0MHBQAQxzjhOBjWlRy+XFIyziwvjDru5Yzhd8WHT50=\n=frJ+\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 782df94ea6193bf711159f17f1b8d39c62bb3846\nparent b4270933aa6c3b2fc25ddbd9ad7229438908a962\nauthor rpalival <112983661+rpalival@users.noreply.github.com> 1664235239 -0400\ncommitter GitHub <noreply@github.com> 1664235239 -0400\n\nUpdate config.yml"
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/13f6b84a76f54ae8d3852abc71780b59546bf70d",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/13f6b84a76f54ae8d3852abc71780b59546bf70d",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/13f6b84a76f54ae8d3852abc71780b59546bf70d/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "b4270933aa6c3b2fc25ddbd9ad7229438908a962",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/b4270933aa6c3b2fc25ddbd9ad7229438908a962",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/b4270933aa6c3b2fc25ddbd9ad7229438908a962"
+      }
+    ]
+  },
+  {
+    "sha": "b4270933aa6c3b2fc25ddbd9ad7229438908a962",
+    "node_id": "C_kwDOICk3udoAKGI0MjcwOTMzYWE2YzNiMmZjMjVkZGJkOWFkNzIyOTQzODkwOGE5NjI",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "112983661+rpalival@users.noreply.github.com",
+        "date": "2022-09-26T23:31:22Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-26T23:31:22Z"
+      },
+      "message": "Update config.yml",
+      "tree": {
+        "sha": "2d853457d4909e220f4415f8a8099f784e8c2b89",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/2d853457d4909e220f4415f8a8099f784e8c2b89"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/b4270933aa6c3b2fc25ddbd9ad7229438908a962",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjMjZKCRBK7hj4Ov3rIwAAoukIAJ0VTlfT1ZLNxmlq8f/8OSEj\nBli8cRLFQTVPfoRV0fzkfeWHWt9UfsPhsYsXKKNX5lebrNZAtqSUptqM7WaENrBf\nX6wVf9ZsuzDUDNMJy/x4uIKsXC11bWWo9jXYZk9BwAxLBvllbVMA4Zo6+UyPpFz4\nyLpNN9qYHGlGFW6QMl2BjAsy5I+dGs1oyp+hOlg2LIQ/8tfsxdkKvMN8QyUEKuqB\nTZApxyb2dWapUdtR17wh1/h7jlcJC7lONbPqIzn0L7E4tsLyWr3u3PczzSjfsXXn\n9xgvr6ByA1Nh66c7bXki926qZg7tB7rXmcOIASY5K6tlbXu+SulLx3iUlwTu5FQ=\n=KmjE\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 2d853457d4909e220f4415f8a8099f784e8c2b89\nparent 4fdc316127d8cbf6011527e60ad4a06323f6c04f\nauthor rpalival <112983661+rpalival@users.noreply.github.com> 1664235082 -0400\ncommitter GitHub <noreply@github.com> 1664235082 -0400\n\nUpdate config.yml"
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/b4270933aa6c3b2fc25ddbd9ad7229438908a962",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/b4270933aa6c3b2fc25ddbd9ad7229438908a962",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/b4270933aa6c3b2fc25ddbd9ad7229438908a962/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "4fdc316127d8cbf6011527e60ad4a06323f6c04f",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/4fdc316127d8cbf6011527e60ad4a06323f6c04f",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/4fdc316127d8cbf6011527e60ad4a06323f6c04f"
+      }
+    ]
+  },
+  {
+    "sha": "4fdc316127d8cbf6011527e60ad4a06323f6c04f",
+    "node_id": "C_kwDOICk3udoAKDRmZGMzMTYxMjdkOGNiZjYwMTE1MjdlNjBhZDRhMDYzMjNmNmMwNGY",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "112983661+rpalival@users.noreply.github.com",
+        "date": "2022-09-26T23:30:32Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-26T23:30:32Z"
+      },
+      "message": "Update config.yml",
+      "tree": {
+        "sha": "b364cc66e4527f9a1b92ac9178aa07de9af9927d",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/b364cc66e4527f9a1b92ac9178aa07de9af9927d"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/4fdc316127d8cbf6011527e60ad4a06323f6c04f",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjMjYYCRBK7hj4Ov3rIwAAYfMIAIFyrVfMceFodv70CX9aGIm6\nty3Fff1NGD8nCPe3ZTomcuuGsjD8YclCs5/RWq8ZRo86ACiNZq0HJ7Jc1Gk0UCB9\nmWQL7VRSZtR1EX5f/qSSryn8U6WHf/s/84gS+hY3tbzWuIIh6TIe99fFHSQRMtWg\nD2nIVlEEsNKJW+Pt9bfTwIjwHeSCs2Vv04ZWaBelmbMzHV540KmnW19EVX4bSWqc\nl4yr/AK7FGIvonmc4F1dbHJXd6paUKfQ2LjEshe/ii/VfTfdjAA971mb+RShbjyU\nTYCcTAD6x6JnTVIYJQBOsK2bqsowtf734I2S7g6mLAhlJL14Uev/IbdUMGwNj+w=\n=2VIM\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree b364cc66e4527f9a1b92ac9178aa07de9af9927d\nparent 0afcf969bcc69efa079bf960c55efcbe937b7d66\nauthor rpalival <112983661+rpalival@users.noreply.github.com> 1664235032 -0400\ncommitter GitHub <noreply@github.com> 1664235032 -0400\n\nUpdate config.yml"
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/4fdc316127d8cbf6011527e60ad4a06323f6c04f",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/4fdc316127d8cbf6011527e60ad4a06323f6c04f",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/4fdc316127d8cbf6011527e60ad4a06323f6c04f/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "0afcf969bcc69efa079bf960c55efcbe937b7d66",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/0afcf969bcc69efa079bf960c55efcbe937b7d66",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/0afcf969bcc69efa079bf960c55efcbe937b7d66"
+      }
+    ]
+  },
+  {
+    "sha": "0afcf969bcc69efa079bf960c55efcbe937b7d66",
+    "node_id": "C_kwDOICk3udoAKDBhZmNmOTY5YmNjNjllZmEwNzliZjk2MGM1NWVmY2JlOTM3YjdkNjY",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "112983661+rpalival@users.noreply.github.com",
+        "date": "2022-09-26T23:29:47Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-26T23:29:47Z"
+      },
+      "message": "Update config.yml",
+      "tree": {
+        "sha": "b364cc66e4527f9a1b92ac9178aa07de9af9927d",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/b364cc66e4527f9a1b92ac9178aa07de9af9927d"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/0afcf969bcc69efa079bf960c55efcbe937b7d66",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjMjXrCRBK7hj4Ov3rIwAAbPIIAFyhJLDSdT/oSNtPvMEUDCNg\nd0aL0UQEmxZy0jV5c6XGrlfR7rSP93agtZbX81DVJ6pa9eokQMbujbwO7xhmbaMS\n71YhcMM+41jH5/nohIkX6pqJExT1FyCqppT75o2lPhgrc5NVBYCvWAQ0pqAVb9Qc\nYJ/1eoLhHwaOiTBPzhXXhXAnPkgDzJFwVcGlTDDuPsH0b2jSk+MFqhrWZtAo07wj\n1bDR1efb+5WTonjbURh6CZ5pPpt85NQazT8nM5VS0tDMenKVqVDCfIp845iiS5TU\n5FYJF7MTqm0r11eiRFyAxdnVw25h8eMeG/jpE7gbtLFT8M9lxeLweXw47GQjZzk=\n=ywJ4\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree b364cc66e4527f9a1b92ac9178aa07de9af9927d\nparent 6dc4ff2b2cd8171f8665ba4140b5573e2fe19280\nauthor rpalival <112983661+rpalival@users.noreply.github.com> 1664234987 -0400\ncommitter GitHub <noreply@github.com> 1664234987 -0400\n\nUpdate config.yml"
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/0afcf969bcc69efa079bf960c55efcbe937b7d66",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/0afcf969bcc69efa079bf960c55efcbe937b7d66",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/0afcf969bcc69efa079bf960c55efcbe937b7d66/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6dc4ff2b2cd8171f8665ba4140b5573e2fe19280",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/6dc4ff2b2cd8171f8665ba4140b5573e2fe19280",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/6dc4ff2b2cd8171f8665ba4140b5573e2fe19280"
+      }
+    ]
+  },
+  {
+    "sha": "6dc4ff2b2cd8171f8665ba4140b5573e2fe19280",
+    "node_id": "C_kwDOICk3udoAKDZkYzRmZjJiMmNkODE3MWY4NjY1YmE0MTQwYjU1NzNlMmZlMTkyODA",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "112983661+rpalival@users.noreply.github.com",
+        "date": "2022-09-26T23:20:39Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-26T23:20:39Z"
+      },
+      "message": "Update config.yml",
+      "tree": {
+        "sha": "8b9916651c1fb34dd249c9a9c5351be883a859f6",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/8b9916651c1fb34dd249c9a9c5351be883a859f6"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/6dc4ff2b2cd8171f8665ba4140b5573e2fe19280",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjMjPHCRBK7hj4Ov3rIwAAJPQIAFArr2KHpn+XCiHiGZdZlpkV\n4dZE/1tL+7QGb2tESkAw8/y1ANWnkWgzAkhM/42cTqJ+pAK0Lq3JCf0amWfws6an\ns3iIF5N25oLNLJN34Mln93LvclRSpF+DClfBEykfqrJgTpmnicQABpxS3n30l6oH\nNC1m1IWLkKenKbXtOZNZriEL93LdgItOvefoUmeeTRYPhVWH5YV/xYFr8fa75SjS\nE3t+pM2E8aGxr5xsrEIBAAOoOaNa+e2ImJPWSRr2owY3e65l3NK+hB9cK5UYv7GY\nV0zqMPofXem42+644/Uh307RtHY5e2sn/idY+Vc93fsKSYO2aXHbUIryNKM3ggU=\n=QTSt\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 8b9916651c1fb34dd249c9a9c5351be883a859f6\nparent ad5c795b8c1481b16d4b29c50b70e3fc9a9f2cf8\nauthor rpalival <112983661+rpalival@users.noreply.github.com> 1664234439 -0400\ncommitter GitHub <noreply@github.com> 1664234439 -0400\n\nUpdate config.yml"
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/6dc4ff2b2cd8171f8665ba4140b5573e2fe19280",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/6dc4ff2b2cd8171f8665ba4140b5573e2fe19280",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/6dc4ff2b2cd8171f8665ba4140b5573e2fe19280/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ad5c795b8c1481b16d4b29c50b70e3fc9a9f2cf8",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/ad5c795b8c1481b16d4b29c50b70e3fc9a9f2cf8",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/ad5c795b8c1481b16d4b29c50b70e3fc9a9f2cf8"
+      }
+    ]
+  },
+  {
+    "sha": "ad5c795b8c1481b16d4b29c50b70e3fc9a9f2cf8",
+    "node_id": "C_kwDOICk3udoAKGFkNWM3OTViOGMxNDgxYjE2ZDRiMjljNTBiNzBlM2ZjOWE5ZjJjZjg",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "112983661+rpalival@users.noreply.github.com",
+        "date": "2022-09-26T23:11:28Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-26T23:11:28Z"
+      },
+      "message": "Update config.yml",
+      "tree": {
+        "sha": "5a30a3332b4aa9bcfc2679f19467a4d14b977296",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/5a30a3332b4aa9bcfc2679f19467a4d14b977296"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/ad5c795b8c1481b16d4b29c50b70e3fc9a9f2cf8",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjMjGgCRBK7hj4Ov3rIwAAc0YIAEA6u+Ix2esIrQvMSQUNE12X\nFCq78bvPO436bkybewUY1hE47HI5d0mp9RvYeEFGUpyTC0LOb1ab413NiVnpe+OB\nzufHZXsHNOCusfWSxXz9q36w8zf1pkfdGC+aM3OhgaL6g50+mc8qhYteBrUtxO6R\nwBPL6JOMKT3vr8UppmPQ7/qtQV8Z+SLTgQ2KVLUtduIJ0S3iya5S3XXaZOO6EG4Y\npUDpfpc9MI6o7dW/7KfjwWmEibx67YwxkYv4xU5xpBW5ilPWe0Jgl0OpIuFT8UBi\nH0bnKjus/Dy7ErJTfDBGCSThm9pyJfBGV/QiIJh+8xIl+JexRVSsnKflfzUq6OQ=\n=lsd8\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 5a30a3332b4aa9bcfc2679f19467a4d14b977296\nparent fb4c0cd4c20258983e6a1925968027a3aa424d19\nauthor rpalival <112983661+rpalival@users.noreply.github.com> 1664233888 -0400\ncommitter GitHub <noreply@github.com> 1664233888 -0400\n\nUpdate config.yml"
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/ad5c795b8c1481b16d4b29c50b70e3fc9a9f2cf8",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/ad5c795b8c1481b16d4b29c50b70e3fc9a9f2cf8",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/ad5c795b8c1481b16d4b29c50b70e3fc9a9f2cf8/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "fb4c0cd4c20258983e6a1925968027a3aa424d19",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/fb4c0cd4c20258983e6a1925968027a3aa424d19",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/fb4c0cd4c20258983e6a1925968027a3aa424d19"
+      }
+    ]
+  },
+  {
+    "sha": "fb4c0cd4c20258983e6a1925968027a3aa424d19",
+    "node_id": "C_kwDOICk3udoAKGZiNGMwY2Q0YzIwMjU4OTgzZTZhMTkyNTk2ODAyN2EzYWE0MjRkMTk",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "112983661+rpalival@users.noreply.github.com",
+        "date": "2022-09-26T23:07:22Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-26T23:07:22Z"
+      },
+      "message": "Create results.xml\n\nresults.xml file creation",
+      "tree": {
+        "sha": "18c3ad6a3d3922cf3865f939def74e07ad4f9da3",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/18c3ad6a3d3922cf3865f939def74e07ad4f9da3"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/fb4c0cd4c20258983e6a1925968027a3aa424d19",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjMjCqCRBK7hj4Ov3rIwAAwP0IAKt962L0/sxtG6QWW/Ghl3Fy\nA5pN//1Rbwyv+Y3jajzBvJxBQJG5mBMjyxH3R+W9PkIYJ8ahtOb62GuRgovbTNLy\nrR0q6Wz8DhOrjWBXsg2EHR1dUxqFpTDWFGYWiiqpMVPkIVV/olyLQHC6jmt5h6M7\nnuAs5cyvwgQ9EJKZuFUqUFf6KaLkUDuBkL9WYIfYgIYWp33szRv0f6qStuLTybVw\n2zYVnFvGoPbGTpFDVfiZrEZ9C+y5Vv2zK9cTyuyBF6VMC2Aj+cfxxBv+YzTX6OWj\nrP7KCFrbrrAV2ICpRyCkSdGnWOnriTQBE4beFE/RGaPWM1S5gOr0sSulXCqJ8Nk=\n=/Id9\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 18c3ad6a3d3922cf3865f939def74e07ad4f9da3\nparent f37fa4ee924ed9caa366945bcebf9059c7206e65\nauthor rpalival <112983661+rpalival@users.noreply.github.com> 1664233642 -0400\ncommitter GitHub <noreply@github.com> 1664233642 -0400\n\nCreate results.xml\n\nresults.xml file creation"
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/fb4c0cd4c20258983e6a1925968027a3aa424d19",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/fb4c0cd4c20258983e6a1925968027a3aa424d19",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/fb4c0cd4c20258983e6a1925968027a3aa424d19/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "f37fa4ee924ed9caa366945bcebf9059c7206e65",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/f37fa4ee924ed9caa366945bcebf9059c7206e65",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/f37fa4ee924ed9caa366945bcebf9059c7206e65"
+      }
+    ]
+  },
+  {
+    "sha": "f37fa4ee924ed9caa366945bcebf9059c7206e65",
+    "node_id": "C_kwDOICk3udoAKGYzN2ZhNGVlOTI0ZWQ5Y2FhMzY2OTQ1YmNlYmY5MDU5YzcyMDZlNjU",
+    "commit": {
+      "author": {
+        "name": "rpalival",
+        "email": "112983661+rpalival@users.noreply.github.com",
+        "date": "2022-09-26T23:05:37Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2022-09-26T23:05:37Z"
+      },
+      "message": "Create config.yml\n\nconfig.yml file creation",
+      "tree": {
+        "sha": "f88dd4ab0fe9001401d9f58ce895a8d16f3acbb3",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/trees/f88dd4ab0fe9001401d9f58ce895a8d16f3acbb3"
+      },
+      "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/git/commits/f37fa4ee924ed9caa366945bcebf9059c7206e65",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjMjBBCRBK7hj4Ov3rIwAARpwIABySzmaGX/W4nzHXs70juQkW\nQT2cVSFOYcxdCU03GdzbfLdNiWgPyHB3S1meG1eh2vG4lxTaEb1FdBt6Uoz5ws9c\nI159hYBkRG8kVDUA9ZDXMK9lL7aZEIILmDBKc6jsAKDzEyhM66Fh/rQPKnrXjl/+\n5gWDVBOMqimFGVRNhgBVw97di1keVeUsrLj7yABjwCDOX4WIRIdYABkCercAvvIr\n79kRzNOpnhVg0vm/SXlrSVoYW8ilnweQqZpBvU23GzyfWIfTI0G0rLJzU0wV63Pi\nd3Wjnsr5LQoPQdYviXWfqFhkYPHPYy4bNXzSSKaIlfJ2CjDQzGsRTuvqskIBIWs=\n=ZZB1\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree f88dd4ab0fe9001401d9f58ce895a8d16f3acbb3\nparent 6be89298fb70c53694ed3199933d91e632de2133\nauthor rpalival <112983661+rpalival@users.noreply.github.com> 1664233537 -0400\ncommitter GitHub <noreply@github.com> 1664233537 -0400\n\nCreate config.yml\n\nconfig.yml file creation"
+      }
+    },
+    "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/f37fa4ee924ed9caa366945bcebf9059c7206e65",
+    "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/f37fa4ee924ed9caa366945bcebf9059c7206e65",
+    "comments_url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/f37fa4ee924ed9caa366945bcebf9059c7206e65/comments",
+    "author": {
+      "login": "rpalival",
+      "id": 112983661,
+      "node_id": "U_kgDOBrv-bQ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112983661?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/rpalival",
+      "html_url": "https://github.com/rpalival",
+      "followers_url": "https://api.github.com/users/rpalival/followers",
+      "following_url": "https://api.github.com/users/rpalival/following{/other_user}",
+      "gists_url": "https://api.github.com/users/rpalival/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/rpalival/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/rpalival/subscriptions",
+      "organizations_url": "https://api.github.com/users/rpalival/orgs",
+      "repos_url": "https://api.github.com/users/rpalival/repos",
+      "events_url": "https://api.github.com/users/rpalival/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/rpalival/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6be89298fb70c53694ed3199933d91e632de2133",
+        "url": "https://api.github.com/repos/rpalival/567_HW_02a_TestTriangle/commits/6be89298fb70c53694ed3199933d91e632de2133",
+        "html_url": "https://github.com/rpalival/567_HW_02a_TestTriangle/commit/6be89298fb70c53694ed3199933d91e632de2133"
+      }
+    ]
+  }
+]
