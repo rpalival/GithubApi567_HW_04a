@@ -19,4 +19,4 @@ jobs:
 workflows:
   testing_GithubApi_04a:
     jobs:
-      - build-and-test 
+      - build-and-test
